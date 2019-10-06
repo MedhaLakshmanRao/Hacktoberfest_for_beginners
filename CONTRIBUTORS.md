@@ -7,6 +7,6 @@
 #### Name: [Sruthy M L](https://github.com/sru-thy)
 - Place: Kerala, India
 - Bio: Student
-#### Name: [Medha Lakshman Rao] (https://github.com/MedhaLakshmanRao)
- -Place: Ernakulam, Cochin
- -Bio   : Artist 
+#### Name: [Medha Lakshman Rao](https://github.com/MedhaLakshmanRao)
+- Place  : Ernakulam, Cochin
+- Bio    : Artist 
